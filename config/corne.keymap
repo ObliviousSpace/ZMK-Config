@@ -17,7 +17,7 @@
 // |  TAB |  "  |  <  |  >  |  P  |  Y  |   |  F  |  G   |  C  |  R  |  L  | BSPC |
 // | SHFT |  A  |  O  |  E  |  U  |  I  |   |  D  |  H   |  T  |  N  |  S  | ENT  |
 // | CTRL |  :  |  Q  |  J  |  K  |  X  |   |  B  |  M   |  W  |  V  |  Z  | ESC  |
-//                    | GUI | LWR | SPC |   | BSPC | RSE | ALT |
+//                    | GUI | LWR | SPC |   | BSPC| RSE | ALT |
                         bindings = <
    &kp TAB   &kp Q &kp W &kp E &kp R &kp T   &kp Y &kp U  &kp I     &kp O   &kp P    &kp BSPC
    &kp LCTRL &kp A &kp S &kp D &kp F &kp G   &kp H &kp J  &kp K     &kp L   &kp SEMI &kp SQT
